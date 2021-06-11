@@ -1,6 +1,6 @@
 <?php
 // speed in kmph
-$speed = 110;
+$speed = 80;
 
 if($speed < 60)
 {
